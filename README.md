@@ -42,9 +42,6 @@ cd event-ticketing-system
 -CustomerThread: Attempts to purchase tickets from the pool.
 -Synchronized Methods: Ensure that no overselling or duplicate access occurs.
 
-## GUI
-(images)
-
 ## Author
 Anshaff Ameer
 
